@@ -28,6 +28,10 @@ MyHealthCo is a fake company with no basis on any real organization. Healthcare 
 
 Each experiment allows for exploring an area of interest within mocked meaningful constraints.
 
+## Experiments
+
+Each of the following experiments have been designed using MyHealthCo.
+
 ### Load Testing Cloud Cache on AWS
 
 Identify baseline metrics between simple serverless applications using a cache fetch system comparing persistence layers between AWS DynamoDB and AWS ElasticCache using Redis.
